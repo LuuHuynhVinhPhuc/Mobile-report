@@ -1,5 +1,7 @@
-# L-p-tr-nh-Mobile-report
-Submit lên đây nha :3
+Mọi người làm cho Phúc nha 
 
-Các bạn làm 2 phần Phúc giao sau đó tạo branch mới và nộp vào để hệ thống lưu lại nhen 
-tks mng đã xem!
+Tú : menu option top + bottom 
+Phát : Recycle Virew sản phẩm 
+
+Phúc : SQLite 
+Làm từ từ không gấp lo công nghệ phần mềm trước 
